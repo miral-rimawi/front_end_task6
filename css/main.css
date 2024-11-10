@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    row-gap: 20px;
+
+    
+}
+.img{
+   width: 30%;
+}
